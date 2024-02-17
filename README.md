@@ -14,10 +14,18 @@ The goal of this project is to make a working mouse droid as see in Star Wars.
 - 4x Wheels
 - 2x Control for wheels
 - 1x 4xAA Battery Enclosure
-- 1x Arduino Uno for mainboard
+- 1x Arduino Nano for mainboard
 - 1x Arduino Micro for controller
 - 2x 2.4Ghz transmitters
 - 2x PWM DC motor drivers
 - 1x Bluetooth speaker
 - 4x IR Proximity sensors
 
+## Pin Assignments for Droid
+
+- D11 PWM1
+- D10 PWM2
+- D6 PWM3
+- D5 PWM4
+- D0, D2 LED
+- D4 Switch
